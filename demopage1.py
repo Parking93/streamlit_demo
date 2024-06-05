@@ -1,6 +1,6 @@
 import streamlit as st
 import os
-os.getcwd()
+st.write(os.getcwd())
 # st.set_page_config(initial_sidebar_state="collapsed")
 
 # st.page_link("demopage.py", label="Home", icon="🏠")
