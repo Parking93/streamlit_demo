@@ -9,5 +9,5 @@ st.page_link("demopage1.py", label="Home", icon="🏠")
 
 # st.page_link("pages/stockdashboard.py", label="stockdashboard", icon="📈")
 
-# st.page_link("https://titanic-dashboard.streamlit.app/", label="Google", icon="🌎")
+st.page_link("https://appdemo2-bkmdfjtjetu6dgtzjzixp7.streamlit.app/", label="Google", icon="🌎")
 
